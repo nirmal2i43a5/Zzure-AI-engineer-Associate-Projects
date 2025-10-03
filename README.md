@@ -1,4 +1,3 @@
-- This repository contains my complete collection of practical labs, projects, and exercises from the Microsoft Azure AI-100 (Designing and Implementing an Azure AI Solution) certification.
-  
-- It includes end-to-end implementations using Azure Cognitive Services, Machine Learning, NLP, Computer Vision, and Bot Framework - designed to help reinforce key skills and prepare for real-world AI engineering tasks.
+This repository contains my practical labs, exercises, and learning projects from the Microsoft Azure AI Fundamentals (AI-900) certification. 
 
+It covers key AI concepts, responsible AI, machine learning basics, and hands-on implementations with Azure Cognitive Services, including Computer Vision, NLP, and Conversational AI. 
